@@ -1,8 +1,5 @@
 ### Olá!!! 👋
 
-<!--
-**LuizAlves99/luizalves99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Meu nome é Luiz Claudio Alves
 
 - 🌱 Atualmente estou estudando no IFTO
@@ -14,3 +11,7 @@ Meu nome é Luiz Claudio Alves
 - 💬 Em breve postarei mais sobre mim e meus trabalhos
 
 - Por enquanto é isso... até
+<!--
+**LuizAlves99/luizalves99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
