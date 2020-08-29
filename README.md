@@ -4,8 +4,7 @@ Meu nome é Luiz Claudio Alves
 
 - 🌱 Atualmente estou estudando no IFTO - Campus Aragguaina - cursando: Programador WEB
     
--   Tambem estou fazendo: Administrador de Banco de Dados (DBA), Montador e Reparador de Computadores e Agente de Turismo.
-    Muita coisa eu sei... mas estou sempre procurando aprender algo novo e tambem adquirir mais conhecimentos
+-   Tambem estou fazendo: Administrador de Banco de Dados (DBA), Montador e Reparador de Computadores e Agente de Turismo... uffaaa!!! é muita coisa eu sei... mas estou sempre procurando aprender algo novo e tambem adquirir mais conhecimentos
 
 - 🔭 Trabalho na Viação ÚTIL como Coordenador de Tráfego desde 2018
 
