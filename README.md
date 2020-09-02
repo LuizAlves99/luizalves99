@@ -10,7 +10,9 @@
 
 - 💬 Em breve postarei mais sobre mim e meus trabalhos
 
-- Por enquanto é isso... até
+- 📫 Entre em contato: mrluizcaa@gmail.com
+
+- Por enquanto é isso... até 
 <!--
 **LuizAlves99/luizalves99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
