@@ -2,7 +2,8 @@
 
 ## **Meu nome é Luiz Claudio Alves**
 
-- 🌱 Atualmente estou estudando no IFTO - Campus Araguaina - cursando: Programador WEB
+- 🌱 Atualmente estou estudando no IFTO - Campus Araguaina - cursando: Programador WEB   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
+
     
 -  Tambem estou fazendo: Administrador de Banco de Dados (DBA), Montador e Reparador de Computadores e Agente de Turismo... uffaaa!!! é muita coisa eu sei... mas estou sempre procurando aprender algo novo e tambem adquirir mais conhecimentos
 
