@@ -1,4 +1,4 @@
-### Olá!!! 👋
+#### Olá!!! Seja muito bem vindo ao meu Github 👋
 
 ## **Meu nome é Luiz Claudio Alves**
 
@@ -19,6 +19,8 @@
 #### View my stats on Github 
    
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizalves99&show_icons=true)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=luizalves99)
 
 
 <!--
