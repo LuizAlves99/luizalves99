@@ -1,6 +1,6 @@
 ### Olá!!! 👋
 
-***Meu nome é Luiz Claudio Alves***
+## **Meu nome é Luiz Claudio Alves**
 
 - 🌱 Atualmente estou estudando no IFTO - Campus Aragguaina - cursando: Programador WEB
     
